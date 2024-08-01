@@ -15,6 +15,8 @@
 - TypeScript
 - CSS (SCSS)
 - API integration
+- Local Storage
+- React Context
 
 ## Links
 - **Preview:** [DEMO LINK](https://yepolotn1ak.github.io/todo-app/)
